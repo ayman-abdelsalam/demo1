@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;OACO;EACJ,KAAK,EAAC,GAAG;;AAMZ,CAAC;EAFE,SAAS,EAAE,IAAI",
+"sources": ["../ruby24/lib/sass/style.scss"],
+"names": [],
+"file": "style.css"
+}
